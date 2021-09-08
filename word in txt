@@ -1,0 +1,3 @@
+word="louder"
+text="action speake louder then words"
+print(text[14:21])
